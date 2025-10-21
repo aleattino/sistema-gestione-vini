@@ -49,5 +49,5 @@ Il codice sorgente dell'applicazione web (frontend) che utilizza i dati gestiti 
 ## Struttura del repository
 
 *   `barnivore_new.csv`: Dataset utilizzato per l'analisi.
-*   `gestione_vini.ipynb`: Il notebook Jupyter che contiene il codice Python completo del sistema e le spiegazioni.
+*   `AlessandroAttino_Python.ipynb`: Il notebook Jupyter che contiene il codice Python completo del sistema e le spiegazioni.
 *   `README.md`: Questo documento.
